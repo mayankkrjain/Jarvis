@@ -1,0 +1,21 @@
+{
+    "logical": {
+        "cricket": {
+            "text": "", 
+            "meta": "cricket score, score,match", 
+            "tagset": "cricket,cricket match" 
+            },
+	"mess": {
+            "text": "", 
+            "meta": "mess", 
+            "tagset": "mess,food,obh,nbh" 
+            },
+	"students": {
+            "text": "http://livechat.rediff.com/sports/score/score.txt", 
+            "meta": "students mail,mail", 
+            "tagset": "mail,students" 
+            }
+
+
+    }
+}
